@@ -1,0 +1,40 @@
+{
+	"name": "abysswalker-theme",
+	"displayName": "Abysswalker Theme",
+	"description": "A minimal, dark fantasy inspired theme for focus and clarity.",
+	"version": "1.0.0",
+	"publisher": "Kossman",
+	"engines": {
+		"vscode": "^1.80.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"dark",
+		"minimal",
+		"zen",
+		"void",
+		"grim",
+		"abyss",
+		"abysswalker",
+		"dark souls",
+		"souls",
+		"elden ring",
+		"elden"
+	],
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/stkossman/abysswalker-theme"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Abysswalker",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Abysswalker-color-theme.json"
+			}
+		]
+	}
+}
