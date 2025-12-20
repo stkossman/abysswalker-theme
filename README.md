@@ -29,7 +29,7 @@
 
 ---
 
-![Abysswalker Preview](https://images.vscodethemes.com/Kossman.abysswalker-theme/abysswalker-js-preview-CZG7.svg)
+![Abysswalker Preview](vscode-themes-example-code.png)
 
 It is specifically tuned for **Frontend Development** (React, TypeScript, Astro, CSS), highlighting only what matters: Component logic and structure.
 
