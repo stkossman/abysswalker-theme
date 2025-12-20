@@ -2,7 +2,7 @@
 	"name": "abysswalker-theme",
 	"displayName": "Abysswalker Theme",
 	"description": "A minimal, dark fantasy inspired theme for focus and clarity.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "Kossman",
 	"engines": {
 		"vscode": "^1.80.0"
